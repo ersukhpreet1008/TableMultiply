@@ -1,0 +1,13 @@
+D:\DEVELOPMENT\C#\TableMultiplyDemo\bin\Debug\netcoreapp3.1\TableMultiplyDemo.exe
+D:\DEVELOPMENT\C#\TableMultiplyDemo\bin\Debug\netcoreapp3.1\TableMultiplyDemo.deps.json
+D:\DEVELOPMENT\C#\TableMultiplyDemo\bin\Debug\netcoreapp3.1\TableMultiplyDemo.runtimeconfig.json
+D:\DEVELOPMENT\C#\TableMultiplyDemo\bin\Debug\netcoreapp3.1\TableMultiplyDemo.runtimeconfig.dev.json
+D:\DEVELOPMENT\C#\TableMultiplyDemo\bin\Debug\netcoreapp3.1\TableMultiplyDemo.dll
+D:\DEVELOPMENT\C#\TableMultiplyDemo\bin\Debug\netcoreapp3.1\TableMultiplyDemo.pdb
+D:\DEVELOPMENT\C#\TableMultiplyDemo\obj\Debug\netcoreapp3.1\TableMultiplyDemo.csprojAssemblyReference.cache
+D:\DEVELOPMENT\C#\TableMultiplyDemo\obj\Debug\netcoreapp3.1\TableMultiplyDemo.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\C#\TableMultiplyDemo\obj\Debug\netcoreapp3.1\TableMultiplyDemo.AssemblyInfo.cs
+D:\DEVELOPMENT\C#\TableMultiplyDemo\obj\Debug\netcoreapp3.1\TableMultiplyDemo.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\TableMultiplyDemo\obj\Debug\netcoreapp3.1\TableMultiplyDemo.dll
+D:\DEVELOPMENT\C#\TableMultiplyDemo\obj\Debug\netcoreapp3.1\TableMultiplyDemo.pdb
+D:\DEVELOPMENT\C#\TableMultiplyDemo\obj\Debug\netcoreapp3.1\TableMultiplyDemo.genruntimeconfig.cache
